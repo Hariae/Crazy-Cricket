@@ -1,5 +1,5 @@
 # Crazy-Cricket
-Strategy Based Cricket game
+Strategy Based Cricket game.
 This is my first Publicly shared code.
 The code is a back end for a strategy based cricket game .
 I am in the development process and I am adding new features slowly.
